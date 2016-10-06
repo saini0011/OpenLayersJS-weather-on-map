@@ -1,0 +1,66 @@
+.map {
+ position: absolute;
+ top: 50px;
+ bottom: 0;
+ left: 0px;
+ right: 0px;
+}
+
+
+
+ .popover-content {
+        min-width: 100px;
+        max-width: 100px
+      }
+.popover {
+        width: auto;
+        height: auto;
+      }
+
+.myTitle{
+	display: inline-block;
+	margin-left:auto;
+	margin-top:10px;
+	vertical-align: middle;
+
+}
+
+.myWeather{
+	display: inline-block;
+	margin-left:0px;
+	margin-top:10px;
+	vertical-align: middle;
+
+}
+
+.countryImg{
+	display: inline;
+	
+	margin-right: 10px;
+	
+	
+}
+
+.weatherImg{
+	display: inline;
+	margin-top: 0px;
+	margin-left: 0px;
+	vertical-align: middle;
+	height:auto;
+	width:auto;
+}
+
+.customDiv{
+	display: inline-block;
+
+
+}
+
+.customDivWeather{
+	display: inline-block;
+	top: 50%;
+    left: 50%;
+	
+
+
+}
